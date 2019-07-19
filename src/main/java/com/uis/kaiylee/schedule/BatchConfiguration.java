@@ -25,7 +25,7 @@ public class BatchConfiguration {
 	 * 
 	 * @Value("${database.password}") private String databasePassword;
 	 */
-	
+	 
 	
 	
 }

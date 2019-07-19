@@ -15,7 +15,7 @@ import org.springframework.context.annotation.PropertySource;
 // file that contains the properties
 @PropertySource("classpath:application.yml")
 public class BatchConfiguration {
-
+ 
 	/*
 	 * @Value("${database.driver}") private String databaseDriver;
 	 * 
